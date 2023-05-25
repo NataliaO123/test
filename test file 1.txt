@@ -4,3 +4,5 @@ test 3 and 4
 сhangings via Git
 changings via local
 add line
+
+another new lines
