@@ -2,3 +2,5 @@ test changings. test 1
 test changings. test 2
 test 3 and 4
 сhangings via Git
+changings via local
+add line
